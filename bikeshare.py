@@ -204,4 +204,9 @@ def main():
 if __name__ == "__main__":
         main()
 
+<<<<<<< HEAD
 print('Goodbye')
+||||||| 1d2ce22
+=======
+print( 'Bye!')
+>>>>>>> documentation
