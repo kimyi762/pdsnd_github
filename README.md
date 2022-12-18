@@ -11,7 +11,7 @@ Created code in python for users to view bikeshare data quickly. Types of filter
 ### Files used
 washington.csv
 new_york_city.csv
-chicago.csv
+chicago.csv 
 
 ### Credits
 https://knowledge.udacity.com/
