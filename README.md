@@ -6,7 +6,7 @@
 ### Bikeshare Data
 
 ### Description
-Created code in python for users to view bikeshare data quickly. Types of filters included city, month, and day. From the filters, users could look at the most frequented stations, time of bike usuage, information on bike users, and most common time for bike users. 
+Created code in python for users to view bikeshare data quickly. Types of filters included city, month, and day. The data only includes data from Chicago, New York City, and Washington. From the filters, users could look at the most frequented stations, time of bike usuage, information on bike users, and most common time for bike users. 
 
 ### Files used
 washington.csv
